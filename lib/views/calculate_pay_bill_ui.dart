@@ -10,6 +10,8 @@ class CalculatePayBillUI extends StatefulWidget {
 class _CalculatePayBillUIState extends State<CalculatePayBillUI> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      backgroundColor: Colors.red,
+    );
   }
 }
